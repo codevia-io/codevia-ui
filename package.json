@@ -1,0 +1,26 @@
+{
+  "name": "codevia-ui",
+  "version": "1.0.0",
+  "description": "Codevia UI theme used for our webapps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codevia-io/codevia-ui.git"
+  },
+  "keywords": [
+    "theme",
+    "bootstrap",
+    "ui",
+    "css",
+    "scss"
+  ],
+  "author": "codevia-io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codevia-io/codevia-ui/issues"
+  },
+  "homepage": "https://github.com/codevia-io/codevia-ui#readme"
+}
